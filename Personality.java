@@ -1,5 +1,5 @@
 // Lauren Kim
-// HW #7: Personality Test
+// Assignment #7: Personality Test
 // 08/20/21
 
 import java.util.*;
